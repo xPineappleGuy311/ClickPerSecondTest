@@ -54,10 +54,10 @@ function App() {
         <div className="bg-white p-8 rounded-xl shadow-lg space-y-8">
           <div className="text-center">
             <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              CPS Counter
+              CPS Test
             </h1>
             <p className="text-gray-600">
-              Test your clicking speed! Use keyboard hotkeys or mouse buttons.
+              Test your CPS Speed! Use mouse buttons and hotkeys to begin.
             </p>
           </div>
 
